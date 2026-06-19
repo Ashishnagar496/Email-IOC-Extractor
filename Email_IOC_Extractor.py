@@ -148,23 +148,6 @@ label5.pack(pady=10)
 label6 = tk.Label(window , text="" , fg="white" , bg="black" , font=("arial" , 14))
 label6.pack(pady=10)
 
-
-
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
 window.configure(background="black")
 window.mainloop()
 
