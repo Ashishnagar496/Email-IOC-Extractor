@@ -1,6 +1,5 @@
 import os 
 import re
-import ipaddress
 from email import policy
 from email.parser import BytesParser
 from email import * 
